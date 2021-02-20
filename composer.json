@@ -1,0 +1,8 @@
+{
+    "name": "NovaGram-Telbot/NovaGram-Telbot",
+    "type": "project",
+    "require": {
+        "php": ">=7.3",
+        "skrtdev/novagram": "*"
+    }
+}
